@@ -1,0 +1,12 @@
+EzEssentials/
+│
+├── index.php
+├── login.php
+├── home.php
+├── admin/
+│   └── admin.css
+│   └── functions.php
+├── sms/
+│   └── sms-api.php
+│
+└── db.php
